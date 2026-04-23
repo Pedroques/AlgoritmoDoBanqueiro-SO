@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmoDoBanqueiro-SO", "AlgoritmoDoBanqueiro-SO.csproj", "{024B8B52-7CA8-4C58-31E0-25BB677C7988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{024B8B52-7CA8-4C58-31E0-25BB677C7988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024B8B52-7CA8-4C58-31E0-25BB677C7988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024B8B52-7CA8-4C58-31E0-25BB677C7988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024B8B52-7CA8-4C58-31E0-25BB677C7988}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B7CAAED-4E80-40C3-89BE-C98DEA78C53D}
+	EndGlobalSection
+EndGlobal
