@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\analu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\AlgoritmoDoBanqueiro-SO\\AlgoritmoDoBanqueiro-SO.csproj",
+      "projectUniqueName": "C:\\Users\\analu\\OneDrive\\Documents\\SO\\Trabalho_Banqueiro\\AlgoritmoDoBanqueiro-SO\\AlgoritmoDoBanqueiro-SO.csproj",
       "projectName": "AlgoritmoDoBanqueiro-SO",
-      "projectPath": "C:\\Users\\User\\AlgoritmoDoBanqueiro-SO\\AlgoritmoDoBanqueiro-SO.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\AlgoritmoDoBanqueiro-SO\\obj\\",
+      "projectPath": "C:\\Users\\analu\\OneDrive\\Documents\\SO\\Trabalho_Banqueiro\\AlgoritmoDoBanqueiro-SO\\AlgoritmoDoBanqueiro-SO.csproj",
+      "packagesPath": "C:\\Users\\analu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\analu\\OneDrive\\Documents\\SO\\Trabalho_Banqueiro\\AlgoritmoDoBanqueiro-SO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\analu\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

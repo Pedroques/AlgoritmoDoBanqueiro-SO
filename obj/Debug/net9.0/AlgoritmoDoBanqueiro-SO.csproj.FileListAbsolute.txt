@@ -1,0 +1,15 @@
+C:\Users\analu\OneDrive\Documents\SO\Trabalho_Banqueiro\AlgoritmoDoBanqueiro-SO\bin\Debug\net9.0\AlgoritmoDoBanqueiro-SO.exe
+C:\Users\analu\OneDrive\Documents\SO\Trabalho_Banqueiro\AlgoritmoDoBanqueiro-SO\bin\Debug\net9.0\AlgoritmoDoBanqueiro-SO.deps.json
+C:\Users\analu\OneDrive\Documents\SO\Trabalho_Banqueiro\AlgoritmoDoBanqueiro-SO\bin\Debug\net9.0\AlgoritmoDoBanqueiro-SO.runtimeconfig.json
+C:\Users\analu\OneDrive\Documents\SO\Trabalho_Banqueiro\AlgoritmoDoBanqueiro-SO\bin\Debug\net9.0\AlgoritmoDoBanqueiro-SO.dll
+C:\Users\analu\OneDrive\Documents\SO\Trabalho_Banqueiro\AlgoritmoDoBanqueiro-SO\bin\Debug\net9.0\AlgoritmoDoBanqueiro-SO.pdb
+C:\Users\analu\OneDrive\Documents\SO\Trabalho_Banqueiro\AlgoritmoDoBanqueiro-SO\obj\Debug\net9.0\AlgoritmoDoBanqueiro-SO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\analu\OneDrive\Documents\SO\Trabalho_Banqueiro\AlgoritmoDoBanqueiro-SO\obj\Debug\net9.0\AlgoritmoDoBanqueiro-SO.AssemblyInfoInputs.cache
+C:\Users\analu\OneDrive\Documents\SO\Trabalho_Banqueiro\AlgoritmoDoBanqueiro-SO\obj\Debug\net9.0\AlgoritmoDoBanqueiro-SO.AssemblyInfo.cs
+C:\Users\analu\OneDrive\Documents\SO\Trabalho_Banqueiro\AlgoritmoDoBanqueiro-SO\obj\Debug\net9.0\AlgoritmoDoBanqueiro-SO.csproj.CoreCompileInputs.cache
+C:\Users\analu\OneDrive\Documents\SO\Trabalho_Banqueiro\AlgoritmoDoBanqueiro-SO\obj\Debug\net9.0\AlgoritmoDoBanqueiro-SO.sourcelink.json
+C:\Users\analu\OneDrive\Documents\SO\Trabalho_Banqueiro\AlgoritmoDoBanqueiro-SO\obj\Debug\net9.0\AlgoritmoDoBanqueiro-SO.dll
+C:\Users\analu\OneDrive\Documents\SO\Trabalho_Banqueiro\AlgoritmoDoBanqueiro-SO\obj\Debug\net9.0\refint\AlgoritmoDoBanqueiro-SO.dll
+C:\Users\analu\OneDrive\Documents\SO\Trabalho_Banqueiro\AlgoritmoDoBanqueiro-SO\obj\Debug\net9.0\AlgoritmoDoBanqueiro-SO.pdb
+C:\Users\analu\OneDrive\Documents\SO\Trabalho_Banqueiro\AlgoritmoDoBanqueiro-SO\obj\Debug\net9.0\AlgoritmoDoBanqueiro-SO.genruntimeconfig.cache
+C:\Users\analu\OneDrive\Documents\SO\Trabalho_Banqueiro\AlgoritmoDoBanqueiro-SO\obj\Debug\net9.0\ref\AlgoritmoDoBanqueiro-SO.dll
