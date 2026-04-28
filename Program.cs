@@ -19,7 +19,7 @@ class Banker {
         
         for (int i = 0; i < NUMBER_OF_CUSTOMERS; i++) {
             for (int j = 0; j < NUMBER_OF_RESOURCES; j++) {
-                maximum[i, j] = rand.Next(1, available[j] + 1); // Inicialização aleatória [cite: 41]
+                maximum[i, j] = rand.Next(1, available[j] + 1); // Inicialização aleatória
                 need[i, j] = maximum[i, j];
                 allocation[i, j] = 0;
             }
@@ -60,7 +60,7 @@ class Banker {
     }
 
     public int RequestResources(int customerNum, int[] request) {
-        lock (padlock) { // Proteção contra acesso concorrente [cite: 34]
+        lock (padlock) { // Proteção contra acesso concorrente
             for (int j = 0; j < NUMBER_OF_RESOURCES; j++) {
                 if (request[j] > need[customerNum, j] || request[j] > available[j])
                     return -1;
