@@ -1,5 +1,4 @@
-# AlgoritmoDoBanqueiro-SO
-Trabalho Prático 1: Algoritmo do Banqueiro
+# Trabalho Prático 1: Algoritmo do Banqueiro
 
 ### Desenvolvedores: 
 * Pedro Martins Assunção de Oliveira;
